@@ -1,0 +1,5 @@
+name 'wordpress'
+description 'wordpress installation'
+version '1.0.0'
+maintainer 'Awesome Company, Inc.'
+maintainer_email 'you@example.com'
